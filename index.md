@@ -21,6 +21,7 @@ Title: Nabídka
 |Forbes | Aktualne.cz | HN |Heuréka|Seznam|
 |:--|:--|:--|:--|:--|
 |Skici, Wireframes, Webdesign| Průzkum, Wireframes, Webdesign | Wireframes, Webdesign, Mobilní aplikace|Analýza, Informační architektura, Webdesign|Webdesign videoportálu, Interakční design|
+
 ## Manažerské shrnutí
 ### Rozsahem a výstupem práce je:
 - Konzultace
